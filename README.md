@@ -5,32 +5,26 @@
 <!-- SECTION 1: PREMIUM HERO BANNER                                           -->
 <!-- ======================================================================== -->
 
-<svg width="100%" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;display:block;margin:0 auto;">
+<!-- Hero Banner - Inline SVG with text fallback -->
+<table style="width:100%;border-collapse:collapse;background-color:#0D1117;">
+<tr>
+<td align="center" style="padding:40px 20px 30px 20px;">
+  <div style="font-size:42px;font-weight:700;background:linear-gradient(90deg,#00E5FF,#7C3AED,#00FFB3);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">Ramprakash Munugapati</div>
+  <br/>
+  <div style="font-size:18px;color:#8b949e;font-weight:400;">Technical Lead | Enterprise Architect | Cloud &amp; AI Engineer</div>
+  <br/>
+  <div style="width:80%;max-width:600px;height:2px;margin:0 auto;background:linear-gradient(90deg,#00E5FF,#7C3AED,#00FFB3);opacity:0.4;"></div>
+</td>
+</tr>
+</table>
+
+<svg width="0" height="0" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg" style="position:absolute;visibility:hidden;" aria-hidden="true">
   <defs>
-    <linearGradient id="hBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#0D1117"/>
-    </linearGradient>
-    <linearGradient id="hAccent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00E5FF"/>
-      <stop offset="50%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#00FFB3"/>
-    </linearGradient>
-    <linearGradient id="hWave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.04"/>
-    </linearGradient>
-    <linearGradient id="hWave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00FFB3" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.03"/>
-    </linearGradient>
+    <linearGradient id="hBg"><stop offset="0%" stop-color="#0D1117"/><stop offset="100%" stop-color="#0D1117"/></linearGradient>
+    <linearGradient id="hAccent"><stop offset="0%" stop-color="#00E5FF"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#00FFB3"/></linearGradient>
   </defs>
   <rect width="1000" height="280" fill="url(#hBg)"/>
-  <path d="M0,230 C200,210 400,250 600,230 C800,210 900,250 1000,230 L1000,280 L0,280 Z" fill="url(#hWave1)"/>
-  <path d="M0,250 C200,235 400,265 600,250 C800,235 900,265 1000,250 L1000,280 L0,280 Z" fill="url(#hWave2)"/>
-  <rect x="50" y="90" width="900" height="2" fill="url(#hAccent)" opacity="0.4"/>
-  <text x="500" y="145" font-family="system-ui,-apple-system,sans-serif" font-size="48" font-weight="700" fill="url(#hAccent)" text-anchor="middle" dominant-baseline="middle">Ramprakash Munugapati</text>
-  <text x="500" y="195" font-family="system-ui,-apple-system,sans-serif" font-size="18" font-weight="400" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">Technical Lead | Enterprise Architect | Cloud &amp; AI Engineer</text>
+  <text x="500" y="145" font-family="system-ui,sans-serif" font-size="48" font-weight="700" fill="url(#hAccent)" text-anchor="middle" dominant-baseline="middle">Ramprakash Munugapati</text>
 </svg>
 
 <!-- ======================================================================== -->
@@ -151,10 +145,6 @@ Specializes in bridging the gap between business requirements and technical exec
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### What I Do
 
 - **Architect** cloud-native, microservices-based platforms that scale to millions of users
@@ -166,8 +156,7 @@ Specializes in bridging the gap between business requirements and technical exec
 - **Define** engineering standards, code review processes, and architectural governance
 - **Drive** adoption of DevOps practices including CI/CD, infrastructure as code, and observability
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 #### Industries Served
 
@@ -178,10 +167,6 @@ Specializes in bridging the gap between business requirements and technical exec
 | **Health Analytics** | Deep experience with healthcare data, analytics, and population health management |
 | **Cloud Services** | Extensive work across AWS, Azure, and IBM Cloud for enterprise migration and modernization |
 | **Financial Technology** | Building personal finance platforms with investment tracking, taxation, and portfolio management |
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -405,27 +390,58 @@ Specializes in bridging the gap between business requirements and technical exec
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramprakash-munugapati&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00FFB3&text_color=c9d1d9&bg_color=0D1117&ring_color=00E5FF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<a href="https://github.com/ramprakash-munugapati">
+  <img src="https://img.shields.io/github/stars/ramprakash-munugapati?label=TOTAL%20STARS&style=for-the-badge&color=00E5FF&labelColor=0D1117" alt="Stars"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ramprakash-munugapati?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-1-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repos"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ramprakash-munugapati">
+  <img src="https://img.shields.io/github/followers/ramprakash-munugapati?label=FOLLOWERS&style=for-the-badge&color=00FFB3&labelColor=0D1117" alt="Followers"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ramprakash-munugapati">
+  <img src="https://komarev.com/ghpvc/?username=ramprakash-munugapati&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views"/>
+</a>
+
+<br/>
+<br/>
+
 <img height="180em" src="https://streak-stats.demolab.com?user=ramprakash-munugapati&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00FFB3&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 <br/>
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramprakash-munugapati&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramprakash-munugapati&bg_color=0D1117&color=00E5FF&line=00FFB3&point=7C3AED&hide_border=true&area=true&area_color=00E5FF&radius=8" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramprakash-munugapati&bg_color=0D1117&color=00E5FF&line=00FFB3&point=7C3AED&hide_border=true&area=true&area_color=00E5FF&radius=8" alt="Activity Graph"/>
 
 <br/>
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ramprakash-munugapati&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramprakash-munugapati&theme=github_dark" alt="Profile Summary"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramprakash-munugapati&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
 
 <br/>
 <br/>
 
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramprakash-munugapati&theme=github_dark" alt="Profile Summary"/>
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramprakash-munugapati&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+  <img src="https://img.shields.io/badge/EARLY%20ADOPTER-00E5FF?style=flat-square&logo=github&logoColor=black" alt="Early Adopter"/>
+</td>
+<td align="center" width="25%" valign="top">
+  <img src="https://img.shields.io/badge/PROFILE%20README-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Profile README"/>
+</td>
+<td align="center" width="25%" valign="top">
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-00FFB3?style=flat-square&logo=github&logoColor=black" alt="Open Source"/>
+</td>
+<td align="center" width="25%" valign="top">
+  <img src="https://img.shields.io/badge/ENTERPRISE%20ARCHITECT-00E5FF?style=flat-square&logo=github&logoColor=black" alt="Enterprise Architect"/>
+</td>
+</tr>
+</table>
 
-<br/>
 <br/>
 
 <picture>
@@ -434,7 +450,7 @@ Specializes in bridging the gap between business requirements and technical exec
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ramprakash-munugapati/ramprakash-munugapati/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<sub>Note: The contribution snake animation runs via a scheduled GitHub Action. To enable it, add the <a href="https://github.com/Platane/snk">Platane/snk</a> workflow to your repository.</sub>
+<sub>Snake animation runs daily via a scheduled GitHub Action. The workflow is already configured in <code>.github/workflows/snake.yml</code>. It will appear after the first successful run (push to main, then go to Actions tab to trigger it manually, or wait for the daily schedule).</sub>
 
 </div>
 
@@ -539,16 +555,16 @@ flowchart TD
 
 #### Architecture Flow
 
-1. **Presentation Layer** — React/Angular applications with TypeScript, styled with TailwindCSS
-2. **API Gateway** — Single entry point routing requests, handling rate limiting and load balancing
-3. **Authentication Layer** — OAuth2/JWT/SAML tokens validated via ForgeRock OpenAM with OpenDJ directory
-4. **Microservices Layer** — Java/Spring Boot services exposing REST and GraphQL APIs
-5. **Event Streaming** — Apache Kafka and RabbitMQ for asynchronous communication and event sourcing
-6. **Caching Layer** — Redis and Couchbase for distributed caching and session management
-7. **Data Layer** — PostgreSQL and MySQL for relational data, MongoDB for document storage
-8. **Container Orchestration** — Docker containers managed by Kubernetes on OpenShift
-9. **Cloud Infrastructure** — Multi-cloud deployment across AWS, Azure, and IBM Cloud
-10. **AI Layer** — OpenAI LLMs integrated via LangChain RAG pipelines and MCP agentic workflows
+1. **Presentation Layer** — React/Angular with TypeScript, TailwindCSS
+2. **API Gateway** — Routing, rate limiting, load balancing
+3. **Authentication Layer** — OAuth2/JWT/SAML, ForgeRock OpenAM
+4. **Microservices Layer** — Java/Spring Boot, REST/GraphQL
+5. **Event Streaming** — Apache Kafka, RabbitMQ
+6. **Caching Layer** — Redis, Couchbase
+7. **Data Layer** — PostgreSQL, MySQL, MongoDB
+8. **Container Orchestration** — Docker, Kubernetes, OpenShift
+9. **Cloud Infrastructure** — AWS, Azure, IBM Cloud
+10. **AI Layer** — OpenAI LLMs, LangChain RAG, MCP agents
 
 </td>
 <td width="50%" valign="top">
@@ -557,14 +573,14 @@ flowchart TD
 
 | Decision | Rationale |
 |:---------|:----------|
-| **Microservices over Monolith** | Independent scaling, team autonomy, technology diversity |
-| **Event-Driven Communication** | Loose coupling, resilience, audit trail, async processing |
-| **API Gateway Pattern** | Centralized auth, routing, rate limiting, monitoring |
-| **Multi-Cloud Strategy** | Vendor independence, disaster recovery, compliance |
-| **Container Orchestration** | Automated deployment, scaling, self-healing, resource optimization |
-| **AI Integration** | Intelligent automation, personalized experiences, predictive analytics |
-| **OAuth2/SAML/IAM** | Enterprise-grade security, SSO, compliance with HIPAA/GDPR |
-| **CQRS + Event Sourcing** | Audit readiness, temporal queries, separated read/write models |
+| **Microservices** | Independent scaling, team autonomy |
+| **Event-Driven** | Loose coupling, resilience, audit trail |
+| **API Gateway** | Centralized auth, routing, monitoring |
+| **Multi-Cloud** | Vendor independence, DR, compliance |
+| **Kubernetes** | Auto-scaling, self-healing, portability |
+| **AI Integration** | Intelligent automation, personalization |
+| **OAuth2/SAML** | Enterprise SSO, HIPAA/GDPR compliance |
+| **CQRS + Events** | Audit readiness, separated read/write |
 
 </td>
 </tr>
