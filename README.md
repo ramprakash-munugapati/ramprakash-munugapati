@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&height=60&lines=Technical+Lead+%7C+Cloud+%26+AI+Engineer;Enterprise+Architect;Builder+of+Secure+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&height=60&lines=Technical+Lead+%7C+Cloud+%26+AI+Engineer;Enterprise+Architect;Digital+Transformation+Leader" alt="Typing SVG" />
 
   <h1>Ramprakash Munugapati</h1>
   <p>
@@ -34,18 +34,18 @@
 
 ## Executive Summary
 
-Results-driven Technical Lead with 15+ years of experience delivering enterprise-scale software systems across healthcare, fintech, and cloud-native platforms. I lead cross-functional engineering teams, translate business goals into scalable technology strategies, and drive architecture decisions that balance performance, security, and maintainability.
+Results-driven Technical Lead with 15+ years of experience delivering enterprise-scale software systems across healthcare, fintech, and cloud-native platforms. I lead cross-functional engineering teams, turn complex business needs into scalable technology strategies, and drive architecture decisions that balance performance, security, and long-term maintainability.
 
-I work at the intersection of platform engineering, enterprise architecture, and AI-driven product modernization — helping organizations ship resilient systems that scale with confidence.
+I work at the intersection of enterprise architecture, cloud modernization, and AI-enabled product transformation — helping organizations build resilient systems that scale with confidence.
 
 ## What I Do
 
 - Architect and modernize cloud-native enterprise platforms
-- Lead engineering teams across full product delivery lifecycles
+- Lead engineering teams through full product delivery lifecycles
 - Design APIs, microservices, identity systems, and secure integrations
-- Build AI-enabled solutions using LLMs, RAG, and agentic workflows
+- Build AI-powered solutions using LLMs, RAG, and agentic workflows
 - Drive platform engineering, DevOps maturity, and engineering culture
-- Mentor engineers and shape technical strategy for long-term business impact
+- Mentor engineers and shape technical strategy for business impact
 
 ## Core Stack
 
@@ -85,11 +85,11 @@ I work at the intersection of platform engineering, enterprise architecture, and
 - Lead with clarity, ownership, and measurable outcomes
 - Prefer elegant architecture over technical complexity
 - Design for scale, trust, and long-term maintainability
-- Keep learning at the pace of the industry and the market
+- Keep learning at the pace of industry and market change
 
 ## Career Highlights
 
-- Technical Lead at Merative, driving modern, healthcare-focused cloud transformation
+- Technical Lead at Merative, driving healthcare and platform modernization
 - Enterprise architecture experience across healthcare, SaaS, and fintech domains
 - Strong ownership across engineering strategy, delivery, security, and team enablement
 - Delivered systems spanning identity, APIs, distributed backend services, observability, and AI workflows
