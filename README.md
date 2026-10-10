@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&height=60&lines=Technical+Lead+%7C+Cloud+%26+AI+Engineer;Enterprise+Architect;Problem+Solver+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&height=60&lines=Technical+Lead+%7C+Cloud+%26+AI+Engineer;Enterprise+Architect;Builder+of+Secure+Scalable+Systems" alt="Typing SVG" />
 
   <h1>Ramprakash Munugapati</h1>
   <p>
@@ -13,8 +13,8 @@
     <a href="https://www.linkedin.com/in/ramprakasham"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:ramprakash.munugapati@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://medium.com/@ramprakash.munugapati"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-    <a href="https://github.com/ramprakash-munugapati"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.youtube.com/channel/UCFq8O-JufUFYWsOODHKNoGQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://github.com/ramprakash-munugapati"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
   <p>
@@ -25,29 +25,29 @@
 
 </div>
 
-## About Me
-
-Results-driven Technical Lead with 15+ years of experience building enterprise-scale software systems across healthcare, fintech, and cloud-native platforms. I lead engineering teams, design resilient architectures, and bridge business goals with scalable technology delivery.
-
-I enjoy working at the intersection of cloud architecture, AI engineering, and product execution — turning complex requirements into maintainable, secure, and high-impact solutions.
-
-- Strong in: Distributed systems, microservices, API design, cloud architecture, enterprise security
-- Current focus: AI agents, LLM integrations, RAG, cloud-native platforms, platform engineering
-- Preferred stack: Java, Spring Boot, React, AWS/Azure, Kubernetes, Kafka, PostgreSQL
-
-## Current Focus
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AI%20Agents-00C2FF?style=for-the-badge&logo=openai&logoColor=black" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/MCP-00FFB3?style=for-the-badge&logo=anthropic&logoColor=black" alt="MCP" />
-  <img src="https://img.shields.io/badge/RAG-00C2FF?style=for-the-badge&logo=googlegemini&logoColor=black" alt="RAG" />
-  <img src="https://img.shields.io/badge/Kubernetes-7C3AED?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Spring%20Boot%203-00FFB3?style=for-the-badge&logo=springboot&logoColor=black" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Platform%20Engineering-00C2FF?style=for-the-badge&logo=gitbook&logoColor=black" alt="Platform engineering" />
+<p align="center">
+  <img src="https://img.shields.io/badge/15%2B-Years%20Experience-00C2FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/4-Enterprise%20Leaders-7C3AED?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/3-Cloud%20Platforms-00FFB3?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AI-LLMs%20%2B%20Agents-00C2FF?style=for-the-badge&labelColor=0D1117" />
 </p>
 
-## Core Competencies
+## Executive Summary
+
+Results-driven Technical Lead with 15+ years of experience delivering enterprise-scale software systems across healthcare, fintech, and cloud-native platforms. I lead cross-functional engineering teams, translate business goals into scalable technology strategies, and drive architecture decisions that balance performance, security, and maintainability.
+
+I work at the intersection of platform engineering, enterprise architecture, and AI-driven product modernization — helping organizations ship resilient systems that scale with confidence.
+
+## What I Do
+
+- Architect and modernize cloud-native enterprise platforms
+- Lead engineering teams across full product delivery lifecycles
+- Design APIs, microservices, identity systems, and secure integrations
+- Build AI-enabled solutions using LLMs, RAG, and agentic workflows
+- Drive platform engineering, DevOps maturity, and engineering culture
+- Mentor engineers and shape technical strategy for long-term business impact
+
+## Core Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -67,6 +67,33 @@ I enjoy working at the intersection of cloud architecture, AI engineering, and p
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
+## Current Focus
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Agents-00C2FF?style=for-the-badge&logo=openai&logoColor=black" alt="AI agents" />
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/MCP-00FFB3?style=for-the-badge&logo=anthropic&logoColor=black" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG-00C2FF?style=for-the-badge&logo=googlegemini&logoColor=black" alt="RAG" />
+  <img src="https://img.shields.io/badge/Kubernetes-7C3AED?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Spring%20Boot%203-00FFB3?style=for-the-badge&logo=springboot&logoColor=black" alt="Spring Boot 3" />
+  <img src="https://img.shields.io/badge/Platform%20Engineering-00C2FF?style=for-the-badge&logo=gitbook&logoColor=black" alt="Platform engineering" />
+</p>
+
+## Leadership Philosophy
+
+- Build systems that are resilient, secure, and easy to evolve
+- Lead with clarity, ownership, and measurable outcomes
+- Prefer elegant architecture over technical complexity
+- Design for scale, trust, and long-term maintainability
+- Keep learning at the pace of the industry and the market
+
+## Career Highlights
+
+- Technical Lead at Merative, driving modern, healthcare-focused cloud transformation
+- Enterprise architecture experience across healthcare, SaaS, and fintech domains
+- Strong ownership across engineering strategy, delivery, security, and team enablement
+- Delivered systems spanning identity, APIs, distributed backend services, observability, and AI workflows
+
 ## GitHub Snapshot
 
 <div align="center">
@@ -82,33 +109,13 @@ I enjoy working at the intersection of cloud architecture, AI engineering, and p
 
 </div>
 
-## Career Highlights
-
-- Technical Lead at Merative, driving enterprise healthcare and cloud-native platform modernization
-- 15+ years of experience in architecture, delivery, and engineering leadership
-- Built systems across identity, cloud, API, data, and AI-powered workflow automation
-- Passionate about mentoring engineers and improving engineering culture, quality, and craftsmanship
-
-## Work Philosophy
-
-- Build scalable systems with clear ownership and maintainability
-- Prefer clean architecture over shortcuts
-- Design for resilience, security, and developer velocity
-- Keep learning, ship fast, and improve continuously
-
 ## Open to
 
-- Technical leadership opportunities
-- Architecture and platform consulting
-- Cloud-native modernization programs
-- AI/ML and enterprise automation initiatives
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/ramprakash-munugapati/ramprakash-munugapati/main/.github/assets/profile-banner.svg" alt="Profile banner" width="100%" />
-
-</div>
+- Technical leadership roles
+- Enterprise architecture and platform modernization
+- Cloud-native transformation programs
+- AI strategy, LLM integration, and automation initiatives
 
 <p align="center">
-  <i>"Engineering is not just building software — it's shaping systems that scale, secure, and endure."</i>
+  <i>"Engineering is not just about writing code — it is about shaping systems that scale, endure, and create business value."</i>
 </p>
